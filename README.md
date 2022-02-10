@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @depocketbot
+- 👀 I’m interested in DePocket
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on the moon
+- 📫 Reach me on depocket.com
